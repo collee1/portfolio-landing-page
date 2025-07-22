@@ -1,2 +1,3 @@
-# portfolio-landing-page
-A simple responsive portfolio page built with HTML, CSS
+# Portfolio Landing Page
+
+A simple responsive portfolio page built with HTML, CSS.
